@@ -1,0 +1,11 @@
+Framework:
+Structural representation of a source code
+
+1. Keyword Driven  --> Driven by keywords
+2. Data Driven     --> Driven by data
+3. Hybrid [Keyword + Data]
+
+1. TestNG
+2. Cucumber Framework 
+
+Java Script executioner
